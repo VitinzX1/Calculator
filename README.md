@@ -1,0 +1,1 @@
+A sleek, functional, and responsive web calculator built with HTML, CSS, and JavaScript. This project highlights core front-end development skills, offering an intuitive user experience for basic arithmetic. Features: dynamic display, keyboard support, error handling. A great resource for learning web tech integration. Contributions welcome!
